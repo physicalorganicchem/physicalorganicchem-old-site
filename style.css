@@ -31,6 +31,12 @@ body {
   body {
     background-attachment: fixed;
   }
+  p {
+    font-size: 12px;
+  }
+  .break {
+    display: none;
+  }
 }
 
 h4 {
