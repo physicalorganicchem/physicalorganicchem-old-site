@@ -28,7 +28,9 @@ body {
 }
 
 @media (max-width:600px) {
-  background-attachment: fixed;
+  body {
+    background-attachment: fixed;
+  }
 }
 
 h4 {
